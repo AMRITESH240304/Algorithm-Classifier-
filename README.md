@@ -13,3 +13,5 @@ Mean absolute error :- 0.06
 Accuracy :- 83%
 
 Mean squared error:- 14622278.77
+
+![line](https://user-images.githubusercontent.com/113977239/227000225-e5763357-6c7b-41dd-9c07-acfa7399402b.png)
