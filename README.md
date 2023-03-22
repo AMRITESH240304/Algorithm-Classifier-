@@ -8,6 +8,8 @@ Accuracy :- 93%
 
 Mean absolute error :- 0.06
 
+![line](https://user-images.githubusercontent.com/113977239/227000601-2f0982b7-f80d-4b80-aa30-456e0fd7da13.png)
+
 # Model scores of Linear Regression
 
 Accuracy :- 83%
